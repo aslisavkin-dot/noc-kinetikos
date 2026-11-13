@@ -1,0 +1,6 @@
+{
+  "name": "NOC KinetikOS — Mobil & 3D Deneyim",
+  "description": "NOC KinetikOS işletim sistemi prototipi. Gerçek telefon tam ekran deneyimi ve ayrılmayan 3D titanyum kasa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
